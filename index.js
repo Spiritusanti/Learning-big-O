@@ -23,3 +23,5 @@ function findNemo(array) {
 }
 
 findNemo(large);
+// big O notation for this function is 
+// O(n)
